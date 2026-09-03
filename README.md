@@ -1,18 +1,20 @@
-<!--- banner --->
+<!-- ==================== BANNER ==================== -->
 
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="./banner/github_banner.png" alt="Hello World">
 
 <br/>
 
-<!--- title --->
+<!-- ==================== TITLE ==================== -->
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm [YOUR_NAME]</h1></summary>
+    <summary>
+      <h1 style="display: inline-block">Hi 👋, I'm [YOUR_NAME]</h1>
+    </summary>
 
 ```
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=[ROLE_1];[ROLE_2];[ROLE_3];[INTEREST]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Frontend+Developer+in+Progress;Learning+HTML%2C+CSS+%26+JavaScript;Learning+React+%26+TypeScript" alt="Typing SVG" />
 </a>
 ```
 
@@ -21,113 +23,159 @@
 
 <br/>
 
-<!--- about --->
+<!-- ==================== ABOUT ME ==================== -->
 
-* 👋 Hi, I’m **[@[GITHUB_USERNAME]]**
-* 🖥️ I’m currently working with **[CURRENT_TECHNOLOGIES / FRAMEWORKS]**.
-* 🗄️ For backend development, I use **[BACKEND_TECHNOLOGIES]**.
-* 🛠️ I’m currently learning **[CURRENTLY_LEARNING]**.
-* 💬 Ask me about **[YOUR_EXPERTISE / TOPICS]**.
-* 🌐 Explore My Portfolio **[[PORTFOLIO_NAME]]([PORTFOLIO_URL])** and My **[Resume]([RESUME_URL])**
-* 📝 I regularly write articles on **[PLATFORM]([PROFILE_URL])**
-* 📫 Feel free to reach me out **[Email]([YOUR_EMAIL])**
+## 👨‍💻 About Me
 
-<br/>
-
-<!--- socials --->
-
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-
-<div>
-  <p align="left">
-
-```
-<a href="[LINKEDIN_URL]" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="[GITHUB_USERNAME]" height="30" width="40" />
-</a>
-
-<a href="[DISCORD_URL]" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" alt="[DISCORD_USERNAME]" height="30" width="40" />
-</a>
-
-<a href="[DEVTO_URL]" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="[GITHUB_USERNAME]" height="30" width="40" />
-</a>
-
-<a href="[STACKOVERFLOW_URL]" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[STACKOVERFLOW_ID]" height="30" width="40" />
-</a>
-```
-
-  </p>
-</div>
+* 👋 Hi, I'm **[@[GITHUB_USERNAME]]**
+* 🌱 I'm currently learning **HTML, CSS, JavaScript, Tailwind CSS, TypeScript, and React**.
+* 💻 My current focus is on **Frontend Web Development**.
+* 🚀 I'm building my skills by creating **small projects and practicing regularly**.
+* 📚 Currently exploring **React and modern JavaScript development**.
+* 🎯 My goal is to become a **skilled Full-Stack Web Developer**.
+* 💡 I enjoy learning new technologies and turning ideas into websites.
+* 📫 Feel free to reach me at **[YOUR_EMAIL]**
 
 <br/>
 
-<!--- technology --->
+<!-- ==================== PORTFOLIO & CREATIVE ==================== -->
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
-
-### Languages:
-
-[![Languages](https://skillicons.dev/icons?i=\[LANGUAGE_ICONS\])](https://github.com/[GITHUB_USERNAME])
-
-### CSS Frameworks & Libraries:
-
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=\[CSS_FRAMEWORK_ICONS\])](https://github.com/[GITHUB_USERNAME])
-
-### JavaScript Frameworks & Libraries:
-
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=\[JS_FRAMEWORK_ICONS\])](https://github.com/[GITHUB_USERNAME])
-
-### Database & ORM:
-
-[![Database & ORM](https://skillicons.dev/icons?i=\[DATABASE_ICONS\])](https://github.com/[GITHUB_USERNAME])
-
-### Deployment & Cloud:
-
-[![Deployment & Cloud](https://skillicons.dev/icons?i=\[DEPLOYMENT_ICONS\])](https://github.com/[GITHUB_USERNAME])
-
-### Design & Graphics:
-
-[![Design & Graphics](https://skillicons.dev/icons?i=\[DESIGN_ICONS\])](https://github.com/[GITHUB_USERNAME])
-
-### Tools & Technologies:
-
-[![Tools & Technologies](https://skillicons.dev/icons?i=\[TOOL_ICONS\])](https://github.com/[GITHUB_USERNAME])
-
-<br/>
-
-<!--- statistics --->
-
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
-### GitHub Contributions:
-
-![Snake Grid](https://github.com/\[GITHUB_USERNAME]/contribution-snake/blob/output/grid.svg)
-
-### GitHub Statistics:
-
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&theme=swift&hide_border=true&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&theme=swift&hide_border=true&layout=compact" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### Repository Stats & Streak:
-
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=[GITHUB_USERNAME]&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=[GITHUB_USERNAME]" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-
-<br/>
-
-<!--- random quote --->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-
----
-
-<!--- visit count --->
+## 🎨 Portfolio & Creative
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="[GITHUB_USERNAME]" />
+
+  <a href="[GITHUB_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-github.svg" alt="GitHub" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="[BEHANCE_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-behance.svg" alt="Behance" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="[DRIBBBLE_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-dribbble.svg" alt="Dribbble" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="[PINTEREST_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-pinterest.svg" alt="Pinterest" width="50" height="50"/>
+  </a>
+
 </p>
+
+<br/>
+
+<!-- ==================== SOCIAL MEDIA ==================== -->
+
+## 🌐 Social Media
+
+<p align="left">
+
+  <a href="[LINKEDIN_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-linkedin.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="[FACEBOOK_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-facebook.svg" alt="Facebook" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="[INSTAGRAM_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-instagram.svg" alt="Instagram" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="[X_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-x.svg" alt="X" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="[DISCORD_URL]" target="_blank">
+    <img src="https://s.magecdn.com/social/tc-discord.svg" alt="Discord" width="50" height="50"/>
+  </a>
+
+</p>
+
+<br/>
+
+
+
+
+<!-- ==================== TECHNOLOGY STACK ==================== -->
+
+## 🛠️ Technology Stack
+
+### 🌐 Frontend
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react)](https://github.com/[GITHUB_USERNAME])
+
+### 📚 Currently Learning
+
+[![Currently Learning](https://skillicons.dev/icons?i=react,typescript)](https://github.com/[GITHUB_USERNAME])
+
+### 🔧 Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/[GITHUB_USERNAME])
+
+<br/>
+
+<!-- ==================== MY JOURNEY ==================== -->
+
+## 📈 My Learning Journey
+
+I'm currently focusing on building a strong foundation in **Frontend Development**.
+
+```text
+HTML           ████████████████████  Learning
+CSS            ████████████████████  Learning
+Tailwind CSS   ███████████████░░░░░  Learning
+JavaScript     ███████████████░░░░░  Learning
+TypeScript     ██████████░░░░░░░░░░  Learning
+React          ████████░░░░░░░░░░░░  Learning
+```
+
+<br/>
+
+
+<!-- ==================== CURRENT GOALS ==================== -->
+
+## 🎯 Current Goals
+
+* ✅ Learn HTML & CSS fundamentals
+* 🔄 Improve JavaScript skills
+* 🔄 Learn TypeScript
+* 🔄 Build projects with React
+* 🔄 Master Tailwind CSS
+* 🔜 Learn Git & GitHub more deeply
+* 🔜 Explore Backend Development
+* 🔜 Become a Full-Stack Web Developer
+
+<br/>
+
+<!-- ==================== PROJECTS ==================== -->
+<!-- ==================== 
+## 🚀 Featured Projects
+
+> More projects coming soon as I continue my learning journey. 🚀
+
+* 🔹 **[PROJECT_NAME_1]** — [SHORT_PROJECT_DESCRIPTION]
+* 🔹 **[PROJECT_NAME_2]** — [SHORT_PROJECT_DESCRIPTION]
+* 🔹 **[PROJECT_NAME_3]** — [SHORT_PROJECT_DESCRIPTION]
+
+<br/>
+==================== -->
+<!-- ==================== DEV QUOTE ==================== -->
+
+## 💭 Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</p>
+
+<br/>
+
+<!-- ==================== PROFILE VIEWS ==================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</h3>
