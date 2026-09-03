@@ -12,14 +12,12 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm [YOUR_NAME]</h1>
+      <h1 style="display: inline-block">Hi 👋, I'm MUAZ SIRAJ</h1>
     </summary>
 
-```
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Frontend+Developer+in+Progress;Learning+HTML%2C+CSS+%26+JavaScript;Learning+React+%26+TypeScript" alt="Typing SVG" />
 </a>
-```
 
   </ul>
 </div>
@@ -30,14 +28,14 @@
 
 ## 👨‍💻 About Me
 
-* 👋 Hi, I'm **[@[GITHUB_USERNAME]]**
+* 👋 Hi, I'm **Muaz Siraj**
 * 🌱 I'm currently learning **HTML, CSS, JavaScript, Tailwind CSS, TypeScript, and React**.
 * 💻 My current focus is on **Frontend Web Development**.
 * 🚀 I'm building my skills by creating **small projects and practicing regularly**.
 * 📚 Currently exploring **React and modern JavaScript development**.
 * 🎯 My goal is to become a **skilled Full-Stack Web Developer**.
 * 💡 I enjoy learning new technologies and turning ideas into websites.
-* 📫 Feel free to reach me at **[YOUR_EMAIL]**
+* 📫 Feel free to reach me at **muazsirajpro@gmail.com**
 
 <br/>
 
@@ -47,11 +45,11 @@
 
 <p align="left">
 
-  <a href="[GITHUB_URL]" target="_blank">
+  <a href="https://github.com/muazsiraj" target="_blank">
     <img src="https://s.magecdn.com/social/tc-github.svg" alt="GitHub" width="50" height="50"/>
   </a>&nbsp;&nbsp;
 
-  <a href="[BEHANCE_URL]" target="_blank">
+  <a href="https://www.behance.net/muazbinsiraj" target="_blank">
     <img src="https://s.magecdn.com/social/tc-behance.svg" alt="Behance" width="50" height="50"/>
   </a>&nbsp;&nbsp;
 
@@ -59,7 +57,7 @@
     <img src="https://s.magecdn.com/social/tc-dribbble.svg" alt="Dribbble" width="50" height="50"/>
   </a>&nbsp;&nbsp;
 
-  <a href="[PINTEREST_URL]" target="_blank">
+  <a href="https://www.pinterest.com/muazsirajofficial/" target="_blank">
     <img src="https://s.magecdn.com/social/tc-pinterest.svg" alt="Pinterest" width="50" height="50"/>
   </a>
 
@@ -73,25 +71,21 @@
 
 <p align="left">
 
-  <a href="[LINKEDIN_URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/muazsiraj/" target="_blank">
     <img src="https://s.magecdn.com/social/tc-linkedin.svg" alt="LinkedIn" width="50" height="50"/>
   </a>&nbsp;&nbsp;
 
-  <a href="[FACEBOOK_URL]" target="_blank">
+  <a href="https://www.facebook.com/muazsirajpro/" target="_blank">
     <img src="https://s.magecdn.com/social/tc-facebook.svg" alt="Facebook" width="50" height="50"/>
   </a>&nbsp;&nbsp;
 
-  <a href="[INSTAGRAM_URL]" target="_blank">
+  <a href="https://www.instagram.com/muazsirajpro/" target="_blank">
     <img src="https://s.magecdn.com/social/tc-instagram.svg" alt="Instagram" width="50" height="50"/>
   </a>&nbsp;&nbsp;
 
-  <a href="[X_URL]" target="_blank">
+  <a href="https://x.com/muazbinsiraj" target="_blank">
     <img src="https://s.magecdn.com/social/tc-x.svg" alt="X" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-
-  <a href="[DISCORD_URL]" target="_blank">
-    <img src="https://s.magecdn.com/social/tc-discord.svg" alt="Discord" width="50" height="50"/>
-  </a>
 
 </p>
 
@@ -125,8 +119,8 @@
 I'm currently focusing on building a strong foundation in **Frontend Development**.
 
 ```text
-HTML           ████████████████████  Learning
-CSS            ████████████████████  Learning
+HTML           ████████████████████  Learnen
+CSS            ████████████████████  Learned
 Tailwind CSS   ███████████████░░░░░  Learning
 JavaScript     ███████████████░░░░░  Learning
 TypeScript     ██████████░░░░░░░░░░  Learning
