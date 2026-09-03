@@ -164,7 +164,7 @@ React          ████████░░░░░░░░░░░░  Lea
 
 ## 💭 Random Developer Quote
 
-<p align="center">
+<p align="start">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 </p>
 
@@ -172,8 +172,8 @@ React          ████████░░░░░░░░░░░░  Lea
 
 <!-- ==================== PROFILE VIEWS ==================== -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=muazsiraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h3 align="center">
