@@ -1,6 +1,9 @@
 <!-- ==================== BANNER ==================== -->
 
-<img src="./banner/github_banner.png" alt="Hello World">
+<p align="center">
+  <img src="./muazbanner.png" alt="Banner image">
+</p>
+
 
 <br/>
 
